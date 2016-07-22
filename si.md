@@ -1,11 +1,11 @@
 
-/// Preface
+### Predgovor
 
 Neupoštevanje pravil zapisanih na naši spletni strani med uporabo kakršnekoli Avicus Network storitve se bo končalo s kaznijo, kot je opozorilo, kick, začasna ali stalna prepoved igranja ter začasna ali trajna prepoved obiskovanja spletne strani. Kazen je odvisna od resnosti pravila, ki je bilo prekršek in odločitvijo osebja. Vse prejšnje kršitve se bodo pri kaznovanju igralcev upoštevale.
 
 Čeprav ni zahtevano, naprošamo vse igralce, ki naletijo na kršitelje pravil, da z ukazom /report obvestijo osebje, ki se takrat nahaja na strežniku. Če kršitelja ni več v igri, vas prosimo, da nemudoma obvestite osebje preko Skyp-a, email-a ali našega TeamSpeak strežnika.
 
-/// A. Splošni bonton in obnašanje
+### A. Splošni bonton in obnašanje
 
 Vedno vzdržujte športno in pozitivno vzdušje. Spoštujte vse igralce. Nadlegovanje in ustrahovanje je strogo prepovedano. Prevare (dejanja, kot so kraja informacij, denarja, računov in drugih zasebnih stvari) niso dovoljene in bodo kaznovane z ustrezno kaznijo.
 Komunacijske funkcije priskrbljene preko našega Minecraft strežnika, forumov in Avicus TeamSpeak strežnika so privilegij. Izkoriščanje teh funkcij je strogo prepovedano. Če z vsebino, ki jo nameravate poslati preko klepeta niste prepričani ali je dovoljena, se prosimo pred pošiljanjem posvetujte z osebjem, da vsebino potrdi.
@@ -24,7 +24,7 @@ Izogibanja prepovedi se bo končalo s trajno prepovedjo na vseh računih, poveza
 Namerno izkoriščanje vseh napak ali bug-ov, ki vam dajejo prednost pred drugimi igralci, je prepovedano. Izkoriščanje se bo končalo z ustrezno kaznijo, odvisno od stopnje. V mnogih primerih, vas vljudno prosimo, da vse napake prijavite na email support@avicus.net, z vsemi detajli, ki jih lahko zagotovite.
 Grožnje nekomu drugemu v kakršnikoli obliki, na večini Avicus storitvah, ne bo tolerirano. To vsebuje, a ni omejeno, DDOS, Dox, in smrtne grožnje v kakršnikoli obliki. Tukaj so nekatere izjeme na Avicus TeamSpeak strežniku, odvisno od tega, v katerem kanalu ste.
 
-///B. Pravila strežnika 
+### B. Pravila strežnika 
 
 Vaše uporabniško ime in skin morata biti primerna za vse starosti. Sporni skin-i ne bodo tolerirani. Sporna uporabniška imena ali kakršnakoli uporabniška imena, ki dajejo vtis ali so nekoliko povezana s čem spornim se bodo kaznovala.
 Namerni škodljivi vplivi na vašo skupino bodo kaznovani. To vsebuje vsa naslednja dejanja zapisana spodaj. Lahko se zgodi, da spodaj ni zapisanih dejanj, a osebje lahko šteje dejanje kot proti pravilom.
@@ -39,7 +39,8 @@ Ne ubijajte na spawn-u. To je definirano kot ubijanje igralcev nasprotne ekipe, 
 Ne sodeluj z nasprotno ekipo z namenom, da imajo oni prednost.
 Kot opazovalec, ne delite informacij o taktiki, kar lahko privede do tega, da ima ena ekipa prednost pred drugo.
 Combat logging (zapuščanje igre med umiranjem) je strogo prepovedano.
-/// C. Modifilacije
+
+### C. Modifilacije
 
 Kakršnekoli modifikacije, ki vam dajejo prednost pred drugimi Minecraft igralci, so prepovedane.
 Spodaj so zapisane modifikacije, ki jih na Avicus-u dovolimo:
@@ -68,7 +69,7 @@ Posvetujte se z osebjem, če niste prepričani ali je modifikacija na Avicus-u d
 
 Ne pretvarjajte se, da uporabljate kakršnekoli nedovoljene modifikacije. Pretvarjanje bo kaznovano.
 
-/// D. Pravila foruma 
+### D. Pravila foruma 
 
 Ne ustvarjajte tem ali objav, ki izzivajo ali žalijo druge ljudi ali skupine. Vsa vsebina, ki vsebuje nesramnost, draženje, posmehovanje ali poniževanje bodo arhivirana in kazni bodo dodeljene.
 Ne spodbujajte k nastanku prepirov ali diskusij ki bi jih lahko zanetila.
@@ -85,13 +86,13 @@ Teme, ki se navezujejo na druge Minecraft strežnike niso dovoljene. Posamezni d
 Naslovi morajo biti temi primerni  in z njo tudi povezani. Osebje si pridržuje pravico do spremembe netočnih, zavajajočih ali spornih naslovov, da zagotovijo uporabnikom čim enostavnejšo uporabo forumov.
 Razprave o osebnih dosežkih in dogodkih bodo zaklenjene saj se smatrajo kot da se navezujejo le na eno osebo. Osebje kaznuje le pod pogojem da uporabnik neprekinjeno uporablja forume zgolj za ta namen.
 
-/// E. Scrimmage Server Rules
+### E. Scrimmage Server Rules
 
 Vsa pravila strežnika veljajo, z izjemo blokiranja spawn-a, ubijanja na spawn-u, kraje med sotekmovalci, zapuscanja igre med umivanjem in team spleef-anja.
 Če scrimming strežnikov ne boste uporabljali v skladu s temi pravili, bodo kaznovani vsi igralci, ki so bili udeleženi.
 Avicus Network ne bo nadomestil organiziranih strežnikov, če se le-ti ne zaženejo pravilno.
 Vodje skupin so odgovorne za vsako dejanje članov. 
 
-/// F. Ostali
+### F. Ostali
 
 Ta pravila se lahko spreminjajo brez opozoril. Igralci so odgovorni, da so seznanjeni z zadnjimi pravili, zato vam toplo priporočamo, da preverjate to stran vsaj enkrat na teden.
