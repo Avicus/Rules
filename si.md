@@ -86,7 +86,7 @@ Teme, ki se navezujejo na druge Minecraft strežnike niso dovoljene. Posamezni d
 Naslovi morajo biti temi primerni  in z njo tudi povezani. Osebje si pridržuje pravico do spremembe netočnih, zavajajočih ali spornih naslovov, da zagotovijo uporabnikom čim enostavnejšo uporabo forumov.
 Razprave o osebnih dosežkih in dogodkih bodo zaklenjene saj se smatrajo kot da se navezujejo le na eno osebo. Osebje kaznuje le pod pogojem da uporabnik neprekinjeno uporablja forume zgolj za ta namen.
 
-### E. Scrimmage Server Rules
+### E. Pravila Scrimmage Strežnika
 
 Vsa pravila strežnika veljajo, z izjemo blokiranja spawn-a, ubijanja na spawn-u, kraje med sotekmovalci, zapuscanja igre med umivanjem in team spleef-anja.
 Če scrimming strežnikov ne boste uporabljali v skladu s temi pravili, bodo kaznovani vsi igralci, ki so bili udeleženi.
