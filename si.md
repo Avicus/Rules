@@ -1,9 +1,9 @@
 
 ### Predgovor
 
-Neupoštevanje pravil zapisanih na naši spletni strani med uporabo kakršnekoli Avicus Network storitve se bo končalo s kaznijo, kot je opozorilo, kick, začasna ali stalna prepoved igranja ter začasna ali trajna prepoved obiskovanja spletne strani. Kazen je odvisna od resnosti pravila, ki je bilo prekršek in odločitvijo osebja. Vse prejšnje kršitve se bodo pri kaznovanju igralcev upoštevale.
+Neupoštevanje pravil zapisanih na naši spletni strani med uporabo kakršnekoli Avicus Network storitve se bo končalo s kaznijo, kot je opozorilo, kick, začasna ali stalna prepoved igranja ter začasna ali trajna prepoved obiskovanja spletne strani. Kazen je odvisna od resnosti pravila, ki je bilo prekršeno ter odločitvijo osebja. Vse prejšnje kršitve se bodo pri kaznovanju igralcev upoštevale.
 
-Čeprav ni zahtevano, naprošamo vse igralce, ki naletijo na kršitelje pravil, da z ukazom /report obvestijo osebje, ki se takrat nahaja na strežniku. Če kršitelja ni več v igri, vas prosimo, da nemudoma obvestite osebje preko Skyp-a, email-a ali našega TeamSpeak strežnika.
+Čeprav ni zahtevano, naprošamo vse igralce, ki naletijo na kršitelje pravil, da z ukazom /report obvestijo osebje, ki se takrat nahaja na strežniku. Če kršitelja ni več v igri, vas prosimo, da nemudoma obvestite osebje preko Skyp-a, email naslova ali našega TeamSpeak strežnika.
 
 ### A. Splošni bonton in obnašanje
 
@@ -16,7 +16,7 @@ Povezovanje z vsebino, ki oglašuje druge Minecraft strežnike. To vsebuje, a ni
 Uporaba ostalih metod komuniciranja kot je poking na TeamSpeak strežniku v ponavljajoči in moteči obliki
 Izzivanje ali žaljenje ljudi ali skupin
 Distribucija osebnih podatkov drugih igralcev
-Sledi vsem dokazom, ki ti jih da Avicus osebje. Če meniš, da član osebja izkorišča svoje sposobnosti preko napačnih opozoril ali kaznovanj, pošljite email na support@avicus.net in priskrbite kakršenkoli dokaz ali detajl, ki ga imate v zvezi z članom osebja.
+Sledi vsem ukazom, ki ti jih da Avicus osebje. Če meniš, da član osebja izkorišča svoje sposobnosti preko napačnih opozoril ali kaznovanj, pošljite email na support@avicus.net in priskrbite kakršenkoli dokaz ali detajl, ki ga imate v zvezi z članom osebja.
 
 Ne silite ostalih igralcev v kršenje pravil zapisanih na tej strani. Če igralec prekrši pravilo zaradi vaših ukazov, boste odgovarjali sami.
 Izogibanja prepovedi se bo končalo s trajno prepovedjo na vseh računih, povezanih z vašim originalnim računom.
